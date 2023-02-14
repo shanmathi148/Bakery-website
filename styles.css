@@ -6,6 +6,10 @@ html{
     scroll-behavior: smooth;
 }
 
+body{
+    margin:0;
+}
+
 /*   header styles   */
 header{
     display: flex;
